@@ -1,0 +1,8 @@
+div.textcolumn {box-sizing:border-box;}
+
+@media screen and (min-width: 800px) {
+    div.textcolumn {width;49%; display:inline-block}
+}
+@media screen and (min-width: 1200px display:inline-block)  {
+    div.textcolumn {width:33%}
+}
